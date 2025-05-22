@@ -70,11 +70,6 @@ This project focuses on analyzing and predicting laptop prices using machine lea
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## **Acknowledgments**
 - Dataset source: Kaggle.
 - Inspired by projects in the machine learning community.
